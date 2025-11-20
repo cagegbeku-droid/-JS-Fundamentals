@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>👋 Hi, I’m <strong>Courage Gbeku</strong></h1>
-  <p><em>[I am a learner of Software Engineering. Replace this line with 1–2-sentence elevator pitch — what you do and what you're looking for.]</em></p>
+  <p><em>I’m a software engineering learner focused on building practical, user-friendly applications. I’m looking for opportunities to grow, collaborate, and work on real projects that strengthen my skills..</em></p>
 
   <!-- Badges (update username & links as needed) -->
   <p>
@@ -16,9 +16,9 @@
 
   <!-- Quick Links -->
   <p>
-    <a href="mailto:[you@example.com]">📫 Email</a> •
-    <a href="https://www.linkedin.com/in/[your-linkedin]">💼 LinkedIn</a> •
-    <a href="https://twitter.com/[your-twitter]">🐦 Twitter</a>
+    <a href="mailto:cagegbeku@gmail.com">📫 Email</a> •
+    <a href="https://www.linkedin.com/in/couragegbeku">💼 LinkedIn</a> •
+    <a href="https://twitter.com/your-twitter">🐦 Twitter</a>
   </p>
 </div>
 
@@ -31,8 +31,7 @@
 </p>
 
 **Vision:**  
-> [Insert your vision — one clear sentence about your career goal and impact you want to make.]
-
+> My vision is to become a world-class engineer who creates scalable, innovative technologies that transform industries and empower communities across the globe.
 **I want to build / work on:**  
 full-stack web apps, REST APIs]
 mobile apps, infrastructure tooling]
