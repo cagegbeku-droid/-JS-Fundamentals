@@ -10,8 +10,8 @@
 
   <!-- Badges (update username & links as needed) -->
   <p>
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=dark" />
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&count_private=true&theme=dark" />
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cage_droid&layout=compact&theme=dark" />
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=cage_droid&show_icons=true&count_private=true&theme=dark" />
   </p>
 
   <!-- Quick Links -->
