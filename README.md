@@ -10,8 +10,8 @@
 
   <!-- Badges (update username & links as needed) -->
   <p>
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cage_droid&layout=compact&theme=dark" />
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=cage_droid&show_icons=true&count_private=true&theme=dark" />
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagegbeku-droid&layout=compact&theme=dark" />
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=cagegbeku-droid&show_icons=true&count_private=true&theme=dark" />
   </p>
 
   <!-- Quick Links -->
@@ -69,13 +69,13 @@ data pipelines, ML prototypes]
 > Replace projects below with your pinned repos (title + 1-line description + tech)
 
 <div>
-  <h4><a href="https://github.com/cage_droid/[project-1]">Project One</a></h4>
+  <h4><a href="https://github.com/cagegbeku-droid/[project-1]">Project One</a></h4>
   <p>Short description — what it does and why it's cool. <em>Tech:</em> React • Node • PostgreSQL</p>
 
-  <h4><a href="https://github.com/cage_droid/[project-2]">Project Two</a></h4>
+  <h4><a href="https://github.com/cagegbeku-droid/[project-2]">Project Two</a></h4>
   <p>Short description focused on impact or learning. <em>Tech:</em> Python • Flask • Docker</p>
 
-  <h4><a href="https://github.com/cage_droid/[project-3]">Project Three</a></h4>
+  <h4><a href="https://github.com/cagegbeku-droidproject-3]">Project Three</a></h4>
   <p>Short description with a link to demo or screenshots. <em>Tech:</em> Java • Spring Boot</p>
 </div>
 
